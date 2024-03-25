@@ -1,5 +1,5 @@
 /**
- * "Elevens"
+ * "Elevens" Funcbeat
  * For some reason, this square function doesn't produce a pure square wave
  * By playing with the input frequency, I got a fun sound effect 
  */
