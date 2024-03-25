@@ -1,3 +1,9 @@
+/**
+ * "Elevens"
+ * For some reason, this square function doesn't produce a pure square wave
+ * By playing with the input frequency, I got a fun sound effect 
+ */
+
 function square(time, freq, amp) {
 	if (time % (1/freq) < (.5/freq)) return amp;
 	else return -amp;
